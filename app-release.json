@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "latestVersionCode": 1,
+  "latestVersionName": "0.1.0",
+  "minimumSupportedVersionCode": 1,
+  "releaseUrl": "https://github.com/dzfastlink-cloud/wassla-tv-pro/releases/latest",
+  "notes": "Initial preview. Channel catalogue contains metadata only; streaming playback is not included yet."
+}
